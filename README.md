@@ -1,1 +1,3 @@
-# Pirate-Invasion-Final
+# PiratesInvasionStage-6
+
+adding sounds and score
